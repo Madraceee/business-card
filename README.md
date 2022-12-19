@@ -7,6 +7,7 @@ link: https://63a0c1f74f0f7523a239f7cc--super-mermaid-962bd7.netlify.app/
 
 
 TO run the site
+---
 `npm start`
 
 
